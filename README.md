@@ -1,1 +1,1 @@
-# Sierpinski_triangle
+# Sierpinski triangle rendered using the chaos game method
